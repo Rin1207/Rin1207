@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Rin)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m Rin
 - 👀 I’m interested in programming, drawing, anything that involves aiming
 - 🌱 I’m currently learning Javascript and Java
