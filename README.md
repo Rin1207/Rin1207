@@ -3,6 +3,7 @@
 - 👋 Hi, I’m Rin
 - 👀 I’m interested in programming, drawing, anything that involves aiming
 - 🌱 I’m currently learning Javascript and Java
+- 🤍 Currently working on iris
 
 <!---
 Rin1207/Rin1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
